@@ -18,7 +18,7 @@ export default function Home() {
         <Link
           href="https://goodfeel4ever.4nets.org/"
           className="p-4 font-medium underline bg-gray-300 rounded-md transition-colors underline-offset-4 hover:text-black"
-        >
+        > 
           click to see your impact
         </Link>
         .
